@@ -1,0 +1,15 @@
+.env required in the project backend file
+
+GOOGLE_API_KEY= 
+
+PORT = 3000
+
+CLOUDINARY_API_SECRET=
+
+CLOUDINARY_API_KEY=
+
+CLOUDINARY_CLOUD_NAME=
+
+CLOUDINARY_URL=
+
+
